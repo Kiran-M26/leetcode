@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
