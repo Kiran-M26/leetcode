@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kiran-M26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Kiran-M26/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kiran-M26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Kiran-M26/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
