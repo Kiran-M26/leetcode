@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kiran-M26/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Kiran-M26/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Kiran-M26/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-M26/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Kiran-M26/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
