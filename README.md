@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kiran-M26/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/Kiran-M26/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Kiran-M26/leetcode/tree/master/2974-minimum-number-game) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kiran-M26/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/Kiran-M26/leetcode/tree/master/3870-count-commas-in-range) |
