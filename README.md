@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Kiran-M26/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kiran-M26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Kiran-M26/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Kiran-M26/leetcode/tree/master/2974-minimum-number-game) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kiran-M26/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kiran-M26/leetcode/tree/master/0409-longest-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kiran-M26/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kiran-M26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/Kiran-M26/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Kiran-M26/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Kiran-M26/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
