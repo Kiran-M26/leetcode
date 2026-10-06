@@ -4,16 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        stack = []
         cnt = 0
         ocnt = 0
         for i in s:
-            if(i == "("): 
-                stack.append(i)
+            if(i == "("):
                 ocnt += 1
-            elif(len(stack) > 0):
-                stack.pop()
+            elif(ocnt > 0):
                 ocnt -= 1
-            elif(len(stack) == 0):
+            elif(ocnt == 0):
                 cnt += 1
         return cnt+ocnt 
