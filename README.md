@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-M26/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
+| [0059-spiral-matrix-ii](https://github.com/Kiran-M26/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kiran-M26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kiran-M26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kiran-M26/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/Kiran-M26/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kiran-M26/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
