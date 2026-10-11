@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kiran-M26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Kiran-M26/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kiran-M26/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/Kiran-M26/leetcode/tree/master/2974-minimum-number-game) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kiran-M26/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kiran-M26/leetcode/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kiran-M26/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
