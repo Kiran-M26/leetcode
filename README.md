@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kiran-M26/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kiran-M26/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
