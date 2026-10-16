@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Kiran-M26/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
