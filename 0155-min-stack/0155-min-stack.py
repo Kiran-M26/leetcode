@@ -10,13 +10,15 @@ class MinStack(object):
         :rtype: None
         """
         self.stack.append(value)
-        if(len(self.minstack) == 0 or value <= self.minstack[-1]): self.minstack.append(value)
+        if(len(self.minstack) == 0): self.minstack.append(value)
+        else:
+            self.minstack.append(min(self.minstack[-1], value))
 
     def pop(self):
         """
         :rtype: None
         """
-        if(self.stack[-1] == self.minstack[-1]): self.minstack.pop()
+        self.minstack.pop()
         self.stack.pop()
 
     def top(self):
