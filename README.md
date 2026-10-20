@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
 ## Monotonic Stack
 |  |
