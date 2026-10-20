@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-M26/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Kiran-M26/leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Kiran-M26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Kiran-M26/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/Kiran-M26/leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kiran-M26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kiran-M26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Kiran-M26/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-M26/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Kiran-M26/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kiran-M26/leetcode/tree/master/0042-trapping-rain-water) |
 ## Matrix
 |  |
 | ------- |
@@ -187,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kiran-M26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Kiran-M26/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
