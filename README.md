@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Kiran-M26/leetcode/tree/master/0441-arranging-coins) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kiran-M26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kiran-M26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Kiran-M26/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Kiran-M26/leetcode/tree/master/0441-arranging-coins) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kiran-M26/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/Kiran-M26/leetcode/tree/master/3870-count-commas-in-range) |
