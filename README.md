@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/Kiran-M26/leetcode/tree/master/0476-number-complement) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
