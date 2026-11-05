@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kiran-M26/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Kiran-M26/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Kiran-M26/leetcode/tree/master/0735-asteroid-collision) |
+| [0821-shortest-distance-to-a-character](https://github.com/Kiran-M26/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Kiran-M26/leetcode/tree/master/0832-flipping-an-image) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kiran-M26/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kiran-M26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Kiran-M26/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kiran-M26/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Kiran-M26/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kiran-M26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kiran-M26/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kiran-M26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kiran-M26/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kiran-M26/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Kiran-M26/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Kiran-M26/leetcode/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
