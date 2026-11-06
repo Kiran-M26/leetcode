@@ -6,7 +6,9 @@ class Solution(object):
         """
         ans = 0
         for i in range(len(mat)):
-            for j in range(len(mat)):
-                if(i == j): ans += mat[i][j]
-                elif(j+i == len(mat)-1): ans += mat[i][j]
+            ans += mat[i][i]
+            ans += mat[i][len(mat)-1-i]
+        if(len(mat)%2 == 1):
+            d = len(mat)//2
+            ans -= mat[d][d]
         return ans
