@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Kiran-M26/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Kiran-M26/leetcode/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Kiran-M26/leetcode/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kiran-M26/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kiran-M26/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kiran-M26/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Kiran-M26/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Kiran-M26/leetcode/tree/master/0441-arranging-coins) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Kiran-M26/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kiran-M26/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kiran-M26/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Kiran-M26/leetcode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
