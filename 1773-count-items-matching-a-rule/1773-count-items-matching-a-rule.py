@@ -7,8 +7,10 @@ class Solution(object):
         :rtype: int
         """
         ans = 0
-        for i in range(len(items)):
-            if(ruleKey == "type" and items[i][0] == ruleValue): ans += 1
-            if(ruleKey == "color" and items[i][1] == ruleValue): ans += 1
-            if(ruleKey == "name" and items[i][2] == ruleValue): ans += 1
+        index = -1
+        if(ruleKey == "type"): j = 0
+        elif(ruleKey == "color"): j = 1
+        else: j = 2
+        for i in range(len(items)): 
+            if(items[i][j] == ruleValue): ans += 1
         return ans
