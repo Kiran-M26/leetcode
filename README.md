@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Kiran-M26/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Kiran-M26/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Kiran-M26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Kiran-M26/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kiran-M26/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kiran-M26/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Kiran-M26/leetcode/tree/master/0500-keyboard-row) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Kiran-M26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Kiran-M26/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kiran-M26/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Kiran-M26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
