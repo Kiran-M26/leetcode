@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Kiran-M26/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kiran-M26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kiran-M26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Kiran-M26/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Kiran-M26/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Kiran-M26/leetcode/tree/master/1572-matrix-diagonal-sum) |
