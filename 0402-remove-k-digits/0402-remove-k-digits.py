@@ -9,8 +9,7 @@ class Solution(object):
         stack = []
         pos = 0
         for _ in range(len(num)):
-            if(k==0): break
-            elif(len(stack) == 0): 
+            if(len(stack) == 0): 
                 stack.append(num[pos])
                 pos += 1
                 continue
@@ -20,7 +19,6 @@ class Solution(object):
             stack.append(num[pos])
             pos += 1
 
-        for i in range(pos, len(num)): stack.append(num[i])
         while(k>0): 
             stack.pop()
             k -= 1
