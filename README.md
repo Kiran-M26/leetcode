@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Kiran-M26/leetcode/tree/master/0832-flipping-an-image) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kiran-M26/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kiran-M26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/Kiran-M26/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kiran-M26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kiran-M26/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kiran-M26/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kiran-M26/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Kiran-M26/leetcode/tree/master/0500-keyboard-row) |
+| [1207-unique-number-of-occurrences](https://github.com/Kiran-M26/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kiran-M26/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Kiran-M26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kiran-M26/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
