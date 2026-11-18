@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kiran-M26/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kiran-M26/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kiran-M26/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kiran-M26/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kiran-M26/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kiran-M26/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-M26/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kiran-M26/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Kiran-M26/leetcode/tree/master/3099-harshad-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kiran-M26/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Kiran-M26/leetcode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Kiran-M26/leetcode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
