@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Kiran-M26/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Kiran-M26/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kiran-M26/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Kiran-M26/leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kiran-M26/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kiran-M26/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kiran-M26/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Kiran-M26/leetcode/tree/master/2716-minimize-string-length) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kiran-M26/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
