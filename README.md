@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Kiran-M26/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kiran-M26/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Kiran-M26/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kiran-M26/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kiran-M26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Kiran-M26/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Kiran-M26/leetcode/tree/master/2716-minimize-string-length) |
