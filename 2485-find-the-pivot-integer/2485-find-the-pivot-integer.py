@@ -4,19 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        ls, rs = [], []
-        l = 0
-        for i in range(1, n+1):
-            l += i
-            ls.append(l)
-        m = ls[len(ls)-1]
-        rs.append(m)
-        for i in range(2, n+1):
-            m -= (i-1)
-            rs.append(m)
+        total = n*(n+1)//2
         ans = -1
-        for i in range(len(ls)):
-            if(ls[i] == rs[i]):
-                ans = i+1
+        for i in range(1, n+1):
+            ls = total - i*(i+1)//2 + i
+            rs = total - ls + i
+            if(ls == rs):
+                ans = i
                 break
         return ans
