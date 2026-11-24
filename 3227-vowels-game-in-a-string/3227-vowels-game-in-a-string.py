@@ -4,4 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        return True if ("a" in s) or ("e" in s) or ("i" in s) or ("o" in s) or ("u" in s) else False
+        for i in s:
+            if i in "aeiou": return True
+        return False
