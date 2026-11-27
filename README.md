@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Kiran-M26/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kiran-M26/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-M26/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [4020-elevator-requests-i](https://github.com/Kiran-M26/leetcode/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Kiran-M26/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Kiran-M26/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/Kiran-M26/leetcode/tree/master/3894-traffic-signal-color) |
+| [4020-elevator-requests-i](https://github.com/Kiran-M26/leetcode/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
 | ------- |
